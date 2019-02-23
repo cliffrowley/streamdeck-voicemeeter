@@ -1,0 +1,8 @@
+{
+  "Description": "Various useful Voicemeeter actions.", 
+  "Name": "Voicemeeter", 
+  "com.github.cliffrowley.streamdeck-voicemeeter.toggle": {
+    "Name": "Voicemeeter Toggle", 
+    "Tooltip": "Toggles a Voicemeeter parameter between two values."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Actions": [
+    {
+      "Icon": "icon", 
+      "Name": "Voicemeeter Toggle", 
+      "States": [
+        {
+          "Image": "defaultImageOff"
+        },
+        {
+          "Image": "defaultImageOn"
+        }
+      ], 
+      "Tooltip": "Toggles a Voicemeeter parameter between two values.", 
+      "UUID": "com.github.cliffrowley.streamdeck-voicemeeter.toggle"
+    }
+  ], 
+  "Author": "Cliff Rowley", 
+  "CodePathWin": "streamdeck-voicemeeter.exe", 
+  "Description": "Various useful Voicemeeter actions.", 
+  "Name": "Voicemeeter", 
+  "Icon": "pluginIcon", 
+  "URL": "https://github.com/cliffrowley/streamdeck-voicemeeter", 
+  "Version": "1.2",
+  "OS": [
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ]
+}
